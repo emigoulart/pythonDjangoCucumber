@@ -52,6 +52,5 @@
 - In myWebApp/myWebApp1/resources is the chrome driver
 
 ---
-edprata@gmail.com
-https://github.com/edprata/pythonDjangoCucumberExample
+
 
